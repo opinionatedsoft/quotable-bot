@@ -1,0 +1,6 @@
+{
+  "name": "Quotable Bot",
+  "description": "Send scheduled random quotes to your Slack channel",
+  "repository": "https://github.com/opinionatedsoft/quotable-bot",
+  "keywords": ["python"]
+}
